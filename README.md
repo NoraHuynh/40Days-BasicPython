@@ -1,2 +1,2 @@
 # 40Days-BasicPython
-AIO2024 Exercises
+From AIO FB group: https://www.facebook.com/groups/917108736015103/
